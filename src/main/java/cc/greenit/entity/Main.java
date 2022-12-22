@@ -1,4 +1,4 @@
-package org.example;
+package cc.greenit.entity;
 
 public class Main {
     public static void main(String[] args) {
